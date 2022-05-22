@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Fotos</title>
+<metadata>
+  <md:content-id>m19677</md:content-id><md:title>Fotos</md:title>
+  <md:abstract>Fotografía microscópica de los copos de nieve</md:abstract>
+  <md:uuid>c85d9c99-e248-4ebe-bb62-ca2e97fda83b</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><media id="mio" display="block" alt="copos de nieve">
+		<image mime-type="image/jpeg" src="copos de nieve.jpg"/>
+	</media>
+</para>
+</content>
+
+</document>

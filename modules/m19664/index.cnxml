@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Copos de Nieve</title>
+  <metadata>
+  <md:content-id>m19664</md:content-id><md:title>Copos de Nieve</md:title>
+  <md:abstract>El naturalista americano Wilson Bentley (1865-1931) dedico 40 inviernos de su vida al estudio de los minúsculos cristales que se aglomeran para formar los copos de nieve. Bentley fue un granjero autodidacto que vivió en Jericho, (Vermont, USA), y que acabó siendo un extraordinario pionero en el campo de la microfotografía. Llegó a fotografiar más de cinco mil cristales de nieve adaptando un microscopio a una cámara fotográfica de las de entonces.  
+Impresionado por la belleza de esas frágiles formaciones de un día (milagros de belleza, como él los llamaba), Bentley se dedicó a examinarlas con detalle. Nunca llegó a encontrar dos exactamente iguales. Sin embargo, a pesar de sus irrepetibles formas, a pesar de las diferentes morfologías, todos los cristales poseen la misma simetría. La razón se encuentra en su estructura cristalina, en el modo en el que las moléculas de agua interaccionan a escala atómica para formar el hielo. Cuando, mediante técnicas de difracción de rayos X, se llegó a establecer la geometría de dicha interacción se pudo comprobar que presentaba la misma simetría que se plasma finalmente en cada cristal.</md:abstract>
+  <md:uuid>76948bee-f277-4edb-a9e6-7f1b94d7c7fa</md:uuid>
+</metadata>
+
+<content>
+    <para id="id11561572">Copos de Nieve</para>
+    <para id="id14331339">No hay dos cristales de nieve iguales pero la simetría de todos es la misma (de aspecto hexagonal aunque desde un punto de vista estrictamente cristalográfico, trigonal). La razón se encuentra en la estructura cristalina del hielo (mostrada en color en el centro) que tiene exactamente la misma simetría y la transmite a los cristales.</para>
+    <para id="id3920649">Así pues, la simetría es la misma porque la impone la estructura interna de enlace entre átomos y moléculas, pero, ¿por qué la forma de cada uno de los cristalitos es diferente a la de los demás?. La respuesta a esta pregunta reside en las condiciones en las que crecen esos cristales de hielo. No crecen lentamente, en condiciones ideales de equilibrio sino que cristalizan de forma relativamente rápida dando lugar a un crecimiento dendrítico, con formas típicamente arborescentes pero con detalles específicos que dependen de las condiciones locales en las que cada cristal creció. En definitiva, las diferencias entre cristales nos recuerdan que cada uno tiene su propia historia que contar.</para>
+  </content>
+</document>
